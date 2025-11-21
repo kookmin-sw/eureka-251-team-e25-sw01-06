@@ -492,7 +492,8 @@ AI는 기후문제를 악화시키지만, 동시에 해결 도구이기도 하�
 
 ## 4️⃣ 인상 깊은 활동
 - 대학원 선배님 멘토링
-- 
+  <img src="https://raw.githubusercontent.com/kookmin-sw/eureka-251-team-e25-sw01-06/refs/heads/main/KakaoTalk_20251118_163436687_01.jpg" width="330" height="190"/>
+
 
   
 - 활동명 – 활동에 대한 간단한 설명과 배운 점을 작성  
