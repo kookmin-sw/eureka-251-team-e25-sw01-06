@@ -286,7 +286,8 @@ MIT Sixth Sense 프로젝트는 **현실과 디지털 간의 경계를 허무는
 
 ---
 
-# 🌐 우리가 상상한 미래  
+## ✅ Team mission 3: 🌐 우리가 상상한 미래  
+
 ## 산업별 AI 법·윤리 프레임워크 정리  
 > AI 시대에 대응하기 위한 법·제도 변화 방향 (현행 → 신규 조문 비교 포함)
 
@@ -459,7 +460,7 @@ AI는 기후문제를 악화시키지만, 동시에 해결 도구이기도 하�
 
 ---
 
-# 대학원 선배님 멘토링
+## ✅ Team mission 4: 대학원 선배님 멘토링
 
 <img src="https://raw.githubusercontent.com/kookmin-sw/eureka-251-team-e25-sw01-06/refs/heads/main/KakaoTalk_20251118_163436687_01.jpg" width="330" />
 
